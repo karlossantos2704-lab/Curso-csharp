@@ -2,4 +2,15 @@
   <Project Path="Aula01.Calculadora/Aula01.Calculadora.csproj" />
   <Project Path="Aula02.Porcentagem/Aula02.Porcentagem.csproj" />
   <Project Path="Aula03.LacosDeRepeticao/Aula03.LacosDeRepeticao.csproj" Id="f79d2bae-5559-4851-9288-e709ea228cc1" />
+  <Project Path="Aula04.Vetores/Aula04.Vetores.csproj" Id="1d1774e4-c91c-4386-9e6b-18202d77b2df" />
+  <Project Path="Aula05.TratamentDeExcessoes/Aula05.TratamentDeExcessoes.csproj" Id="e5d3ca72-0b1d-4f22-94bb-a4909b032131" />
+  <Project Path="Aula06.Exercicio01/Aula06.Exercicio01.csproj" Id="e1026acb-37b4-4f7b-b7cc-64cf26e03bd6" />
+  <Project Path="Aula06.Exercicio02/Aula06.Exercicio02.csproj" Id="ed02a9a9-4510-4c72-9a1a-c8f29d9794e9" />
+  <Project Path="Aula06.Exercicio03/Aula06.Exercicio03.csproj" Id="5371bdf0-2a0d-42da-a038-500c7bdec8f1" />
+  <Project Path="Aula06.HerancaSimples/Aula08HerancaSimples.csproj" Id="eddbfebd-76ce-4009-8a8c-21eefdb8090c" />
+  <Project Path="Aula07.SensorTemperatura/Aula07.SensorTemperatura.csproj" Id="ffca9712-fedb-4ffe-815e-d6fe63c8b57a" />
+  <Project Path="Aula09.Formas/Aula09.Formas.csproj" Id="1d9207ba-1a01-4841-81e7-4870d0f7ea0b" />
+  <Project Path="Aula10.Exercicio1/Aula10.Exercicio01.csproj" Id="89ef034c-7a4d-4a5c-8391-5e2233603298" />
+  <Project Path="Aula10.MetodosAbstratos/Aula10.MetodosAbstratos.csproj" Id="a8acb898-a9d0-4bb4-a7d9-1f7456b673d1" />
+  <Project Path="Aula11.Exercicio1/Aula11.Exercicio01.csproj" Id="4a8a578e-3ac8-4e8d-8952-0fdfc2d93ec2" />
 </Solution>
