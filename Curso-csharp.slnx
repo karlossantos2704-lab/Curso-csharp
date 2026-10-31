@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Aula01.Calculadora/Aula01.Calculadora.csproj" />
   <Project Path="Aula02.Porcentagem/Aula02.Porcentagem.csproj" />
+  <Project Path="Aula03.LacosDeRepeticao/Aula03.LacosDeRepeticao.csproj" Id="f79d2bae-5559-4851-9288-e709ea228cc1" />
 </Solution>
